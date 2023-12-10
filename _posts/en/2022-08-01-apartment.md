@@ -20,12 +20,14 @@ lang: en
 
 <iframe type="text/html" width="100%" height="385" src="https://www.youtube.com/embed/oicXyNATby8" frameborder="0"></iframe>
 
-
 ### Procedure
 
 To ensure an accurate scale of the reconstruction, I modeled the room and most of the furniture based on the floorplan and my own measurments. Some 3rd party assets were used, as listed in the reference section.<br />
 The materials were from Quixel Megascans.<br />
 Blueprints were made to generate walking sound, control time-of-day, and switch lights on and off.<br />
+
+![Controlling time-of-day](/assets/img/posts/apartment/time-of-day.gif)
+![Interior lighting control](/assets/img/posts/apartment/lighting.gif)
 
 You can download the demo [here](https://drive.google.com/file/d/1471EdnMMLqTqfWCFOcF4YbmqiLHPj49V/view?usp=sharing).
 
