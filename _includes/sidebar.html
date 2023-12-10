@@ -11,7 +11,7 @@
             <div class="bio">
                 <p>{{ site.bio }}</p>
             </div>
-            <div class="level">
+<!--             <div class="level">
                 <div class="level-item">
                     <p class="heading">{{ panel.posts }}</p>
                     <a href="{{ "/archives.html" | prepend: site.baseurl }}">
@@ -30,7 +30,7 @@
                         <p class="title">{{ site.tags | size }}</p>
                     </a>
                 </div>
-            </div>
+            </div> -->
             {% if site.sns.size > 0 %}
             <ul id="sns-links" class="sns-links">
                 {% for s in site.sns %}
@@ -82,7 +82,7 @@
         </section>
         {% endif %}
 
-        <section class="tags-card">
+<!--         <section class="tags-card">
             {% assign posts = site.posts | sort: "date" | reverse %}
             <div class="links">{{ panel.update }}</div>
             <ul class="latest-articles">
@@ -105,7 +105,7 @@
                 {% endfor %}
             </ul>
 
-        </section>
+        </section> -->
 
     </div>
 

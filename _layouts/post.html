@@ -43,7 +43,7 @@
           {% endif %}
         </div>
         <h1>{{ page.title }}</h1>
-        <div class="post-meta">
+<!--         <div class="post-meta">
           <span class="post-meta-item">
             <svg class="icon" aria-hidden="true">
               <use xlink:href="#icon-user"></use>
@@ -95,7 +95,7 @@
               {% endif %}
             </span>
           {% endif %}
-        </div>
+        </div> -->
       </div>
       {% if page.cover %}
       <div class="filter"></div>
@@ -251,7 +251,7 @@
         </ul>
         {% endif %}
       </section>
-      <section class="post-footer-item read-next">
+<!--       <section class="post-footer-item read-next">
         {% if page.next.url %}
         <div class="read-next-item">
           <a href="{{ page.next.url | relative_url }}" class="read-next-link" aria-label="{{ page.next.title }}"></a>
@@ -263,7 +263,7 @@
           <div class="filter"></div>
           <img src="{{ page.next.cover | relative_url }}" alt="">
           {% endif %}
-      </div>
+          </div>
         {% endif %}
 
         {% if page.previous.url %}
@@ -279,7 +279,7 @@
             {% endif %}
         </div>
         {% endif %}
-      </section>
+      </section> -->
       {% if site.comments.disqus or site.comments.waline %}
       <section class="post-footer-item comment">
         <div class="comments-headline">

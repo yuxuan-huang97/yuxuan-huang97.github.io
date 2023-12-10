@@ -12,8 +12,8 @@ description: 或许是最漂亮的Jekyll主题
     data-theme="{{ site.theme-color }}"
     style="{% if page.cover %}background: url({{ page.cover | relative_url }}) no-repeat center center; background-size: cover;{% endif %}"
 >
-    <h2>{{ page.home-title }}</h2>
-    <h3>{{ page.description }}</h3>
+<!--     <h2>{{ page.home-title }}</h2>
+    <h3>{{ page.description }}</h3> -->
     {% if page.cover_author %}
         <p class="meta-item">
             <svg class="icon" aria-hidden="true">
@@ -27,9 +27,8 @@ description: 或许是最漂亮的Jekyll主题
         </p>
     {% endif %}
 </div>
-
 <main class="g-container home-content">
-    <div class="article-list">
+    <div class="article-list" style="padding-left: 30px;padding-right: 30px;width: 50em;">
         <div class="post-content" style="padding-left: 30px;padding-right: 30px;width: auto;">
             <article class="markdown-body" style="width: auto;">
                 {% assign lang = page.lang | default: site.default_lang %}
