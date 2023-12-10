@@ -7,4 +7,5 @@ gem "webrick"
 gem "premonition"
 gem "h2o-ac-jekyll-extlinks"
 gem "nokogiri"
+gem 'github-pages'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
