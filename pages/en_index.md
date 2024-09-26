@@ -22,6 +22,7 @@ lang: "zh-Hans"
 
 ## 论文发表
 
+- **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "Direction-Based Authentication: Combining Symbolic Input and Contextual Cues for Virtual Reality Password Entry." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
 - **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "DBA: Direction-Based Authentication in Virtual Reality." 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2023. [[DOI]](https://ieeexplore.ieee.org/document/10108616)
 - **Huang, Yuxuan**, Jiajing Wu, Chi K. Tse, and Zibin Zheng. "Sequential attacker–defender game on complex networks considering the cascading failure process." IEEE Transactions on Computational Social Systems 9.2 (2021): 518-529. [[DOI]](https://ieeexplore.ieee.org/document/9509574)
 - Zhang, Yihan, Jiajing Wu, Zhenhao Chen, **Yuxuan Huang**, and Zibin Zheng. "Sequential node/link recovery strategy of power grids based on q-learning approach." 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2019. [[DOI]](https://ieeexplore.ieee.org/document/8702107)
