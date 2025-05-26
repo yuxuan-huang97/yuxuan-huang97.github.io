@@ -13,7 +13,7 @@ lang: "zh-Hans"
 
 ## 关于我
 
-&emsp;&emsp;我是一名来自明尼苏达大学的计算机博士生。我的导师是Victoria Interrante。我的研究方向包括虚拟现实（VR），人机交互，以及计算机图形学。
+&emsp;&emsp;我是一名来自明尼苏达大学的计算机博士生。我的导师是Prof. Evan Suma Rosenberg和Prof. Victoria Interrante。我的研究方向包括虚拟现实（VR），人机交互，以及计算机图形学。
 
 ## 教育经历
 2021-至今: 计算机博士, 明尼苏达大学\
@@ -22,11 +22,13 @@ lang: "zh-Hans"
 
 ## 论文发表
 
-- **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "Direction-Based Authentication: Combining Symbolic Input and Contextual Cues for Virtual Reality Password Entry." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
+- **Huang, Yuxuan**, Naveen Elangovan, Juergen Konczak, and Victoria Interrante. "Visual Assistance May Impede Sensorimotor Learning During Gamified Rehabilitation Exercises." Frontiers in Virtual Reality 6: 1526567. [[DOI]](https://doi.org/10.3389/frvir.2025.1526567)
+- **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "Direction-Based Authentication: Combining Symbolic Input and Contextual Cues for Virtual Reality Password Entry." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. [[DOI]](https://ieeexplore.ieee.org/document/10765470)
 - **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "DBA: Direction-Based Authentication in Virtual Reality." 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2023. [[DOI]](https://ieeexplore.ieee.org/document/10108616)
 - **Huang, Yuxuan**, Jiajing Wu, Chi K. Tse, and Zibin Zheng. "Sequential attacker–defender game on complex networks considering the cascading failure process." IEEE Transactions on Computational Social Systems 9.2 (2021): 518-529. [[DOI]](https://ieeexplore.ieee.org/document/9509574)
 - Zhang, Yihan, Jiajing Wu, Zhenhao Chen, **Yuxuan Huang**, and Zibin Zheng. "Sequential node/link recovery strategy of power grids based on q-learning approach." 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2019. [[DOI]](https://ieeexplore.ieee.org/document/8702107)
 - **Huang, Yuxuan**, Jiajing Wu, Wendi Ren, Chi K. Tse, and Zibin Zheng. "Sequential restorations of complex networks after cascading failures." IEEE Transactions on Systems, Man, and Cybernetics: Systems 51.1 (2018): 400-411. [[DOI]](https://ieeexplore.ieee.org/document/8509205)
+
 
 ## 联系我
 
