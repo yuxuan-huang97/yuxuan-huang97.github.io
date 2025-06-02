@@ -36,6 +36,7 @@ pwa:
 nav:
   home: '/'
   blog: '/blog/index.html'
+  research: '/blog/research/index.html'
   archives: '/archives.html'
   tags: '/tags.html'
   about:   
@@ -246,3 +247,9 @@ premonition:
 
 # Plugins
 plugins: [jekyll-paginate-v2, jekyll-feed, jekyll-sitemap, premonition, h2o-ac-jekyll-extlinks]
+
+
+collections:
+  research:
+    output: true
+    permalink: /research/:title/

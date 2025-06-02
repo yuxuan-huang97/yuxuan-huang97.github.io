@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div
+  class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}"
+  data-theme="{{ site.theme-color }}"
+  style="{% if page.cover %}background: url({{ page.cover | relative_url }}) no-repeat center center; background-size: cover;{% endif %}"
+>
+</div>
+
+<main class="g-container home-content">
+  <div class="article-list">
+    {% assign research_posts = site.research | sort: "date" | reverse %}
+    {% for post in research_posts %}
+      {% include paginate-article.html post=post %}
+    {% endfor %}
+  </div>
+
+  {% include sidebar.html %}
+</main>
+
+{% include footer.html %}

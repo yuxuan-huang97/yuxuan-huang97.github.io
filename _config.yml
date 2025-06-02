@@ -35,6 +35,7 @@ pwa:
 # Navigation links
 nav:
   home: '/'
+  research: '/blog/research/index.html'
   portfolio: '/blog/index.html'
   #archives: '/archives.html'
   #tags: '/tags.html'
@@ -241,3 +242,9 @@ premonition:
 
 # Plugins
 plugins: [jekyll-paginate-v2, jekyll-feed, jekyll-sitemap, premonition, h2o-ac-jekyll-extlinks]
+
+
+collections:
+  research:
+    output: true
+    permalink: /research/:title/

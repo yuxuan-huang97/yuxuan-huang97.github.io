@@ -1,0 +1,18 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body,
+body *:not(code):not(pre),
+h1, h2, h3, h4, h5, h6,
+p, li, span, a, div,
+.nav, .header, .footer {
+  font-family: 'Inter', sans-serif !important;
+}
+*/
+
+body,
+body *:not(code):not(pre),
+h1, h2, h3, h4, h5, h6,
+p, li, span, a, div,
+.nav, .header, .footer {
+  font-family: Arial, sans-serif !important;
+}

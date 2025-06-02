@@ -39,6 +39,7 @@ The animation and rendering were done using the Unreal Engine sequencer.
 ![醉月飞琼](/assets/img/posts/slender-west-lake/SlenderWestLake3.jpg)
 ![白塔(White Tower)](/assets/img/posts/slender-west-lake/SlenderWestLake9.jpg)
 ![二十四桥(Twenty-four Bridge)](/assets/img/posts/slender-west-lake/SlenderWestLake7.jpg)
+![大明寺(DaMing Temple)](/assets/img/posts/slender-west-lake/DaMingTemple.jpg)
 
 
 ### References

@@ -4,6 +4,12 @@
 {% else %}
 <html lang="{{site.default_lang}}">
 {% endif %}
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/app.min.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
 {% include post-head.html %}
 
 {% if site.prism.line_numbers %}
