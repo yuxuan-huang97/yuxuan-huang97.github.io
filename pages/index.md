@@ -13,17 +13,17 @@ lang: "en"
 
 ## About me
 
-&emsp;&emsp;I am a PhD candidate in Computer Science at the University of Minnesota, co-advised by Prof. Evan Suma Rosenberg and Prof. Victoria Interrante. My research interests lie in Virtual Reality, HCI, and Computer Graphics. I am particularly interested in 3DUI design that strikes a balance between security and usability, and how virtual environments and gamification can be used for social good. My CV can be found [here](https://drive.google.com/file/d/1sgnTONnIVrth2ysC90cf6fhAXdhkTLS-/view?usp=drive_link).\
+&emsp;&emsp;I am a Postdoctoral Research Scholar at North Carolina State University, working with Dr. Qiao Jin. Previously I earned my Ph.D. in Computer Science at the University of Minnesota, co-advised by Prof. Evan Suma Rosenberg and Prof. Victoria Interrante. My research interests lie in Virtual Reality, HCI, and Computer Graphics. I am particularly interested in 3DUI design that strikes a balance between security and usability, and how virtual environments and gamification can be used for social good. My CV can be found [here](https://drive.google.com/file/d/1sgnTONnIVrth2ysC90cf6fhAXdhkTLS-/view?usp=drive_link).\
 &emsp;&emsp;In my spare time I have a passion for handcrafting and modeling virtual scenes (both digitally in 3D software and IRL dioramas). I also love traveling and photography.
 
 ## Education
-2021-Present: Ph.D., Computer Science, University of Minnesota (USA)\
+2021-2025: Ph.D., Computer Science, University of Minnesota (USA)\
 2019-2021: M.S., Computer Science, University of Minnesota (USA)\
 2015-2019: B.Eng., Intelligence Science & Technology, Sun Yat-sen University (China)
 
 ## Publications
 
-- **Huang, Yuxuan**, and Danhua Zhang. 3D Computer Graphics Techniques for Geological Information Systems. In *Encyclopedia of GIS*. Springer, 2025. (To appear)
+- **Huang, Yuxuan**, and Danhua Zhang. 3D Computer Graphics Techniques for Geological Information Systems. In *Encyclopedia of GIS*. Springer. (To appear)
 - Qiao Jin, Yu Liu, **Yuxuan Huang**, Bo Han, Feng Qian and Svetlana Yarosh. "An Exploratory Study of Using Interactive Volumetric Video in VR for Embodied Learning." *In Proceedings of the 19th International Conference of the Learning Sciences-ICLS 2025, pp. 2090-2094. International Society of the Learning Sciences.* [[DOI]](https://doi.org/10.22318/icls2025.459272)
 - **Huang, Yuxuan**, Naveen Elangovan, Juergen Konczak, and Victoria Interrante. "Visual Assistance May Impede Sensorimotor Learning During Gamified Rehabilitation Exercises." *Frontiers in Virtual Reality 6: 1526567.* [[DOI]](https://doi.org/10.3389/frvir.2025.1526567)
 - **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "Direction-Based Authentication: Combining Symbolic Input and Contextual Cues for Virtual Reality Password Entry." *2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR).* IEEE, 2024. [[DOI]](https://ieeexplore.ieee.org/document/10765470)
@@ -39,6 +39,6 @@ For details about my research & personal projects, please check out the [researc
 
 ## Contact
 
-Email: dragonhuang97@gmail.com; huan2076@umn.edu
+Email: dragonhuang97@gmail.com; yhuang94@ncsu.edu; huan2076@umn.edu
 
 

@@ -13,10 +13,10 @@ lang: "zh-Hans"
 
 ## 关于我
 
-&emsp;&emsp;我是一名来自明尼苏达大学的计算机博士生。我的导师是Prof. Evan Suma Rosenberg和Prof. Victoria Interrante。我的研究方向包括虚拟现实（VR），人机交互，以及计算机图形学。
+&emsp;&emsp;我现在在北卡罗莱纳州立大学担任博士后研究员。我的supervisor是Qiao Jin（金乔）。在此之前我在明尼苏达大学获得计算机博士学位。我的导师是Evan Suma Rosenberg和Victoria Interrante。我的研究方向包括虚拟现实（VR），人机交互，以及计算机图形学。
 
 ## 教育经历
-2021-至今: 计算机博士, 明尼苏达大学\
+2021-2025: 计算机博士, 明尼苏达大学\
 2019-2021: 计算机硕士, 明尼苏达大学\
 2015-2019: 智能科学学士., 中山大学
 
@@ -34,4 +34,4 @@ lang: "zh-Hans"
 
 ## 联系我
 
-邮箱: dragonhuang97@gmail.com; huan2076@umn.edu
+邮箱: dragonhuang97@gmail.com; yhuang94@ncsu.edu; huan2076@umn.edu
