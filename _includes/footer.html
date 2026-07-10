@@ -71,11 +71,13 @@
     {% endif %}
   </div>
 </footer>
+{% comment %}
 <div class="cookie-tip">
   {{ cookie.cookieconsent_status }} {{ footer.tos.left }}「 <a href="{{ site.tos | prepend: site.baseurl }}">{{ footer.tos.middle }}</a> 」{{ footer.tos.right }}
 
   <button id="accept-tos">{{ footer.tos.btn }}</button>
 </div>
+{% endcomment %}
 <button id="list" aria-label="Scroll back to top" class="mobile-list" type="button">
   <svg class="icon list day" aria-hidden="true">
     <use xlink:href="#icon-list-day"></use>
