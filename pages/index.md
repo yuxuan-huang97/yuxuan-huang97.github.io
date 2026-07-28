@@ -23,7 +23,8 @@ lang: "en"
 
 ## Publications
 
-- **Huang, Yuxuan**, and Danhua Zhang. 3D Computer Graphics Techniques for Geological Information Systems. In *Encyclopedia of GIS*. Springer. (To appear)
+- **Huang, Yuxuan**, Qiao Jin, Sara Lotemplio, Francisco Ortega, Victoria Interrante. How Does Gamification Affect Virtual Reality Nature Experience? *ACM Transactions on Applied Perception* (Accepted, to appear)
+- **Huang, Yuxuan**, and Danhua Zhang. 3D Computer Graphics Techniques for Geological Information Systems. In *Encyclopedia of GIS*. Springer. (Accepted, to appear)
 - Qiao Jin, Yu Liu, **Yuxuan Huang**, Bo Han, Feng Qian and Svetlana Yarosh. "An Exploratory Study of Using Interactive Volumetric Video in VR for Embodied Learning." *In Proceedings of the 19th International Conference of the Learning Sciences-ICLS 2025, pp. 2090-2094. International Society of the Learning Sciences.* [[DOI]](https://doi.org/10.22318/icls2025.459272)
 - **Huang, Yuxuan**, Naveen Elangovan, Juergen Konczak, and Victoria Interrante. "Visual Assistance May Impede Sensorimotor Learning During Gamified Rehabilitation Exercises." *Frontiers in Virtual Reality 6: 1526567.* [[DOI]](https://doi.org/10.3389/frvir.2025.1526567)
 - **Huang, Yuxuan**, Danhua Zhang, and Evan Suma Rosenberg. "Direction-Based Authentication: Combining Symbolic Input and Contextual Cues for Virtual Reality Password Entry." *2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR).* IEEE, 2024. [[DOI]](https://ieeexplore.ieee.org/document/10765470)
