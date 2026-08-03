@@ -22,7 +22,7 @@ lang: "zh-Hans"
 
 ## 论文发表
 
-- **Yuxuan Huang**, and Qiao Jin “More than a Typing Method: Rethinking the Usability Evaluation of Knowledge-Based Authentication in Virtual Reality” *Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.*
+- **Yuxuan Huang**, and Qiao Jin. “More than a Typing Method: Rethinking the Usability Evaluation of Knowledge-Based Authentication in Virtual Reality” *Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.*
 - **Yuxuan Huang**, Qiao Jin, Sara Lotemplio, Francisco Ortega, and Victoria Interrante. "How Does Gamification Affect Virtual Reality Nature Experience?" *ACM Transactions on Applied Perception* (Accepted, to appear)
 - **Yuxuan Huang**, and Danhua Zhang. "3D Computer Graphics Techniques for Geological Information Systems." In *Encyclopedia of GIS*. Springer. (Accepted, to appear)
 - Tongyu Nie, **Yuxuan Huang**, Ville Cantory, Danhua Zhang, and Evan Suma Rosenberg. "Effects of Field-of-View Restriction and Peripheral Teleportation on Path Integration during Virtual Locomotion." *IEEE Transactions on Visualization and Computer Graphics* (Proc. IEEE ISMAR 2026).
