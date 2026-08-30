@@ -17,7 +17,7 @@ lang: en
 
 ## Shenzhen Scenery Addon
 
-> This is a MSFS scenery pack I created for my hometown, Shenzhen, China. Over 150 landmarks of Futian, Luohu and Nanshan districts are included. [The addon](https://flightsim.to/file/21593/shenzhen-scenery-pack) is highly rated by the community and can be downloaded for free.
+> This is a MSFS scenery pack I created for my hometown, Shenzhen, China. Over 150 landmarks of Futian, Luohu and Nanshan districts are included. As of Sep, 2026, the addon is the highest rated and most downloaded Chinese scenery addon on flightsim.to. The addon can be downloaded for free [here](https://flightsim.to/file/21593/shenzhen-scenery-pack).
 
 <iframe type="text/html" width="100%" height="385" src="https://www.youtube.com/embed/k7EGl7S8dJU" frameborder="0"></iframe>
 

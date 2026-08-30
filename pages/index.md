@@ -13,7 +13,7 @@ lang: "en"
 
 ## About me
 
-&emsp;&emsp;I am a Postdoctoral Research Scholar at North Carolina State University, working with Dr. Qiao Jin. Previously I earned my Ph.D. in Computer Science at the University of Minnesota, co-advised by Prof. Evan Suma Rosenberg and Prof. Victoria Interrante. My research interests lie in Virtual Reality, HCI, and Computer Graphics. I am particularly interested in 3DUI design that strikes a balance between security and usability, and how virtual environments and gamification can be used for social good. My CV can be found [here](https://drive.google.com/file/d/1sgnTONnIVrth2ysC90cf6fhAXdhkTLS-/view?usp=drive_link).\
+&emsp;&emsp;I am a Postdoctoral Research Scholar at North Carolina State University, working with Dr. Qiao Jin. Previously, I earned my Ph.D. in Computer Science at the University of Minnesota, co-advised by Prof. Evan Suma Rosenberg and Prof. Victoria Interrante. My research interests lie in Virtual Reality, HCI, and Computer Graphics. I am particularly interested in human-centered interaction design, such as 3DUI that strikes a balance between security and usability, and how virtual environments and gamification can be used for social good. My CV can be found [here](https://drive.google.com/file/d/1sgnTONnIVrth2ysC90cf6fhAXdhkTLS-/view?usp=drive_link).\
 &emsp;&emsp;In my spare time I have a passion for handcrafting and modeling virtual scenes (both digitally in 3D software and IRL dioramas). I also love traveling and photography.
 
 ## Education
@@ -23,9 +23,10 @@ lang: "en"
 
 ## Publications
 
-- **Yuxuan Huang**, and Qiao Jin. “More than a Typing Method: Rethinking the Usability Evaluation of Knowledge-Based Authentication in Virtual Reality” *Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.*
-- **Yuxuan Huang**, Qiao Jin, Sara Lotemplio, Francisco Ortega, and Victoria Interrante. "How Does Gamification Affect Virtual Reality Nature Experience?" *ACM Transactions on Applied Perception* (Accepted, to appear)
-- **Yuxuan Huang**, and Danhua Zhang. "3D Computer Graphics Techniques for Geological Information Systems." In *Encyclopedia of GIS*. Springer. (Accepted, to appear)
+- **Yuxuan Huang**, Qiao Jin, Tongyu Nie, Victoria Interrante, and Evan Suma Rosenberg. "Context or Digits? Balancing Memorability and Efficiency in Virtual Reality Authentication" *(Conditionally accepted to VRST 2026)*.
+- **Yuxuan Huang**, and Qiao Jin. “More than a Typing Method: Rethinking the Usability Evaluation of Knowledge-Based Authentication in Virtual Reality” *In Second Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR Security ’26)* [[DOI]](https://doi.org/10.1145/3842203.3844598)
+- **Yuxuan Huang**, Qiao Jin, Sara Lotemplio, Francisco Ortega, and Victoria Interrante. "How Does Gamification Affect Virtual Reality Nature Experience?" *ACM Transactions on Applied Perception* [[DOI]](https://dl.acm.org/doi/10.1145/3842735)
+- **Yuxuan Huang**, and Danhua Zhang. "3D Computer Graphics Techniques for Geological Information Systems." In *In: Shashi Shekhar., Hui Xiong, Xun Zhou (eds) Encyclopedia of GIS.* Springer, Cham. [[DOI]](https://doi.org/10.1007/978-3-319-23519-6_1711-1)
 - Tongyu Nie, **Yuxuan Huang**, Ville Cantory, Danhua Zhang, and Evan Suma Rosenberg. "Effects of Field-of-View Restriction and Peripheral Teleportation on Path Integration during Virtual Locomotion." *IEEE Transactions on Visualization and Computer Graphics* (Proc. IEEE ISMAR 2026).
 - Xiaoran Yang, Yang Zhan, Xie He, **Yuxuan Huang**, Yichen Yu, Zhuo Wang, Noboru Matsuda, and Qiao Jin. "Signals of AI Hallucination: Designing Hallucination-Aware Cues for Embodied Conversational Agents in VR." *IEEE Transactions on Visualization and Computer Graphics* (Proc. IEEE ISMAR 2026).
 - Qiao Jin, Yu Liu, **Yuxuan Huang**, Bo Han, Feng Qian and Svetlana Yarosh. "An Exploratory Study of Using Interactive Volumetric Video in VR for Embodied Learning." *In Proceedings of the 19th International Conference of the Learning Sciences-ICLS 2025, pp. 2090-2094. International Society of the Learning Sciences.* [[DOI]](https://doi.org/10.22318/icls2025.459272)
