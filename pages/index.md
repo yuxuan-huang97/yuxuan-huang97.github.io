@@ -23,7 +23,8 @@ lang: "en"
 
 ## Publications
 
-- **Yuxuan Huang**, Qiao Jin, Tongyu Nie, Victoria Interrante, and Evan Suma Rosenberg. "Context or Digits? Balancing Memorability and Efficiency in Virtual Reality Authentication" *Proceedings of the 2026 31nd ACM Symposium on Virtual Reality Software and Technology. 2026.*.
+- Joey Huang, Andy Yu, **Yuxuan Huang**, Qiao Jin, "From Shared Intent to Solo Design: Undergraduates Reasoning About Collaboration in VR" *American Educational Research Association Annual Meeting (AERA 2027) (To appear)*
+- **Yuxuan Huang**, Qiao Jin, Tongyu Nie, Victoria Interrante, and Evan Suma Rosenberg. "Context or Digits? Balancing Memorability and Efficiency in Virtual Reality Authentication" *In Proceedings of the 32nd ACM Symposium on Virtual Reality Software and Technology (VRST '26).* [[DOI]](https://dl.acm.org/doi/10.1145/3822517.3848711)
 - **Yuxuan Huang**, and Qiao Jin. "More than a Typing Method: Rethinking the Usability Evaluation of Knowledge-Based Authentication in Virtual Reality" *In Second Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR Security ’26)* [[DOI]](https://doi.org/10.1145/3842203.3844598)
 - **Yuxuan Huang**, Qiao Jin, Sara Lotemplio, Francisco Ortega, and Victoria Interrante. "How Does Gamification Affect Virtual Reality Nature Experience?" *ACM Transactions on Applied Perception* [[DOI]](https://dl.acm.org/doi/10.1145/3842735)
 - **Yuxuan Huang**, and Danhua Zhang. "3D Computer Graphics Techniques for Geological Information Systems." In *In: Shashi Shekhar., Hui Xiong, Xun Zhou (eds) Encyclopedia of GIS.* Springer, Cham. [[DOI]](https://doi.org/10.1007/978-3-319-23519-6_1711-1)
