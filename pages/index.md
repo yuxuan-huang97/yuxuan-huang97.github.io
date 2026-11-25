@@ -13,7 +13,7 @@ lang: "en"
 
 ## About me
 
-&emsp;&emsp;I am a Postdoctoral Research Scholar at North Carolina State University, working with Dr. Qiao Jin. Previously, I earned my Ph.D. in Computer Science at the University of Minnesota, co-advised by Prof. Evan Suma Rosenberg and Prof. Victoria Interrante. My research interests lie in Virtual Reality, HCI, and Computer Graphics. I am particularly interested in human-centered interaction design, such as 3DUI that strikes a balance between security and usability, and how virtual environments and gamification can be used for social good. My CV can be found [here](https://drive.google.com/file/d/1sgnTONnIVrth2ysC90cf6fhAXdhkTLS-/view?usp=drive_link).\
+&emsp;&emsp;I am a Postdoctoral Research Scholar at North Carolina State University, working with Dr. Qiao Jin. Previously, I did my Ph.D. in Computer Science at the University of Minnesota, co-advised by Prof. Evan Suma Rosenberg and Prof. Victoria Interrante. My research interests lie in Virtual Reality, HCI, and Computer Graphics. I am particularly interested in human-centered interaction design, such as 3DUI that strikes a balance between security and usability, and how virtual environments and gamification can be used for social good. My CV can be found [here](https://drive.google.com/file/d/1sgnTONnIVrth2ysC90cf6fhAXdhkTLS-/view?usp=drive_link).\
 &emsp;&emsp;In my spare time I have a passion for handcrafting and modeling virtual scenes (both digitally in 3D software and IRL dioramas). I also love traveling and photography.
 
 ## Education
